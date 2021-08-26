@@ -1,0 +1,6 @@
+za/co/wethinkcode/server/IWorldCommand.class
+za/co/wethinkcode/server/QuitCommandI.class
+za/co/wethinkcode/server/RobotsCommandI.class
+za/co/wethinkcode/server/DumpCommandI.class
+za/co/wethinkcode/server/PurgeCommandI.class
+za/co/wethinkcode/server/HelpCommandI.class
